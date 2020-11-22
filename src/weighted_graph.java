@@ -78,7 +78,7 @@ public interface weighted_graph {
     /** return the number of vertices (nodes) in the graph.
      * Note: this method should run in O(1) time.
      * @return
-     */
+  k */
     public int nodeSize();
     /**
      * return the number of edges (undirectional graph).
